@@ -1,2 +1,2 @@
 # Stroke prediction Model
-Heart stroke prediction model using random forest classifier. 
+Stroke prediction model using random forest classifier made for a Data Science event.  
